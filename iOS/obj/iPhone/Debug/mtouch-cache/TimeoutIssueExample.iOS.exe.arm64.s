@@ -10296,7 +10296,7 @@ image_table:
 
 	.long 14
 	.asciz "TimeoutIssueExample.iOS"
-	.asciz "F6591A70-D59B-42C7-B941-D38E0D150976"
+	.asciz "59DBCAC0-1E5A-42B7-93DA-1B945E92FBC9"
 	.asciz ""
 	.asciz ""
 	.align 3
@@ -10345,12 +10345,12 @@ image_table:
 
 	.long 0,1,1,0,0
 	.asciz "TimeoutIssueExample"
-	.asciz "0AAB5FDC-D506-46F8-BFD3-61E51D226192"
+	.asciz "206F6002-A41F-4AF8-B515-E1AE7A5C2F0C"
 	.asciz ""
 	.asciz ""
 	.align 3
 
-	.long 0,1,0,5511,21270
+	.long 0,1,0,5511,21814
 	.asciz "System.Core"
 	.asciz "D87B3977-7683-47CF-A6C0-BA008A278A92"
 	.asciz ""
@@ -10401,7 +10401,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "F6591A70-D59B-42C7-B941-D38E0D150976"
+	.asciz "59DBCAC0-1E5A-42B7-93DA-1B945E92FBC9"
 .section __TEXT, __const
 	.align 2
 runtime_version:
